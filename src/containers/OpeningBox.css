@@ -1,0 +1,21 @@
+.showtimelink{
+
+background-color: #136cb2;
+color: #ffffff;
+display: table-cell;
+font-family: Verdana,Arial,Sans-serif;
+font-size: 18px;
+height: 60px;
+text-align: center;
+text-decoration: none;
+vertical-align: middle;
+width: 100%;
+
+}
+
+.opening-box{
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 20px;
+    padding-top: 16px;
+    position: relative;
+}
